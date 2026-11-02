@@ -1,6 +1,6 @@
-# Portofolio & Penawaran Jasa — Agus Kurniawan, S.Kom
+# Portofolio & Penawaran Jasa, Agus Kurniawan, S.Kom
 
-Portofolio dan penawaran jasa Front-End Developer & IT Support, dalam file-file terpisah (HTML, CSS, dan JavaScript). Foto profil dimuat dari situs portofolio di Vercel (https://agusedev1.vercel.app/profile-photo.png).
+Portofolio dan penawaran jasa Front End Developer & IT Support, dalam file-file terpisah (HTML, CSS, dan JavaScript). Foto profil dimuat dari situs portofolio di Vercel (https://agusedev1.vercel.app/profile-photo.png).
 
 ## Struktur file
 
@@ -30,14 +30,14 @@ Buka `index.html` di browser. Tidak perlu server dan tidak perlu proses build.
 
 | Paket | Mulai dari | Estimasi |
 | --- | --- | --- |
-| Landing Page / Company Profile | Rp 1,5 jt / proyek | 3–5 hari kerja |
-| Website Bisnis + Fitur Custom | Rp 3,5 jt / proyek | 5–10 hari kerja |
-| Web App / Dashboard | Rp 5 jt / proyek | 7–14 hari kerja |
+| Landing Page / Company Profile | Rp 1,5 jt / proyek | 3 sampai 5 hari kerja |
+| Website Bisnis + Fitur Custom | Rp 3,5 jt / proyek | 5 sampai 10 hari kerja |
+| Web App / Dashboard | Rp 5 jt / proyek | 7 sampai 14 hari kerja |
 
-Tambahan: maintenance & update konten mulai Rp 500 rb / bulan. Pembayaran bertahap: DP 50% untuk mulai, pelunasan setelah serah terima. Semua harga adalah "mulai dari" — bukan harga mati.
+Tambahan: maintenance & update konten mulai Rp 500 rb / bulan. Pembayaran bertahap: DP 50% untuk mulai, pelunasan setelah serah terima. Semua harga adalah "mulai dari", bukan harga mati.
 
 ## Kontak
 
-- WhatsApp: 0895-2259-8705
+- WhatsApp: 0895 2259 8705
 - Email: agusekurnia@gmail.com
 - GitHub: https://github.com/aguse22e
