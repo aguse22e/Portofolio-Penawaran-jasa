@@ -38,6 +38,6 @@ Tambahan: maintenance & update konten mulai Rp 500 rb / bulan. Pembayaran bertah
 
 ## Kontak
 
-- WhatsApp: 0895 2259 8705
+- WhatsApp: 0813 1915 5058
 - Email: agusekurnia@gmail.com
 - GitHub: https://github.com/aguse22e
